@@ -40168,5 +40168,18 @@
     "start_date_local": "2026-04-02T18:26:07Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 47288.5,
+    "elevation_gain": 73.0,
+    "id": "17966697327",
+    "moving_time": 5140.0,
+    "name": "Zwift - Brasstown (Z2 variations)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-03T14:44:15Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
