@@ -27827,6 +27827,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17978411154",
       "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 11,
+      "name": "Warmup 10min",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17989785422",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 12,
+      "name": "v2:00/r...2 row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17989877397",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 12,
+      "name": "Castles row 20x2:00 + cooldown (8.7km)",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17990463495",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53732,6 +53759,17 @@
           "distance": 9492.3,
           "elevation_gain": 0.0,
           "moving_time": 2809.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "17989785422",
+            "17989877397",
+            "17990463495"
+          ],
+          "count": 3,
+          "distance": 11322.8,
+          "elevation_gain": 0.0,
+          "moving_time": 3471.0
         }
       },
       "VirtualRide": {
@@ -54003,7 +54041,7 @@
       }
     }
   },
-  "generated_at": "2026-04-05T15:27:41.960942+00:00",
+  "generated_at": "2026-04-06T15:41:54.863690+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",

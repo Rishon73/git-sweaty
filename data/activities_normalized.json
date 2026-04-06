@@ -40194,5 +40194,44 @@
     "start_date_local": "2026-04-04T08:55:41Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 1795.0,
+    "elevation_gain": 0.0,
+    "id": "17989785422",
+    "moving_time": 600.0,
+    "name": "Warmup 10min",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-05T11:57:00Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 816.7,
+    "elevation_gain": 0.0,
+    "id": "17989877397",
+    "moving_time": 238.0,
+    "name": "v2:00/r...2 row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-05T12:11:01Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 8711.1,
+    "elevation_gain": 0.0,
+    "id": "17990463495",
+    "moving_time": 2633.0,
+    "name": "Castles row 20x2:00 + cooldown (8.7km)",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-05T12:22:01Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
