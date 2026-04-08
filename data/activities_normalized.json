@@ -40246,5 +40246,18 @@
     "start_date_local": "2026-04-06T19:13:01Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 39470.2,
+    "elevation_gain": 539.0,
+    "id": "18020249174",
+    "moving_time": 5378.0,
+    "name": "Tralalalis",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-07T17:31:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
