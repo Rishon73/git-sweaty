@@ -40259,5 +40259,31 @@
     "start_date_local": "2026-04-07T17:31:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 1826.0,
+    "elevation_gain": 0.0,
+    "id": "18047834247",
+    "moving_time": 600.0,
+    "name": "Warmup",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-09T19:45:00Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 4863.0,
+    "elevation_gain": 0.0,
+    "id": "18048092232",
+    "moving_time": 1649.0,
+    "name": "15 minute intervals pyramid (3.5-ish km)",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-09T19:56:31Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
