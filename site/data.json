@@ -27899,6 +27899,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18069343350",
       "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 8,
+      "name": "True 540 recovery to the Majdal Bakery",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18083040609",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53631,6 +53640,15 @@
           "distance": 80563.0,
           "elevation_gain": 1180.0,
           "moving_time": 12335.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18083040609"
+          ],
+          "count": 1,
+          "distance": 41979.2,
+          "elevation_gain": 391.0,
+          "moving_time": 7778.0
         }
       },
       "Rowing": {
@@ -54123,7 +54141,7 @@
       }
     }
   },
-  "generated_at": "2026-04-12T15:32:27.654023+00:00",
+  "generated_at": "2026-04-13T16:09:35.137050+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
