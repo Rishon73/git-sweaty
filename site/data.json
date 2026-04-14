@@ -27908,6 +27908,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18083040609",
       "year": 2026
+    },
+    {
+      "date": "2026-04-13",
+      "hour": 18,
+      "name": "Warmup",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/18097267312",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-13",
+      "hour": 18,
+      "name": "Distance row (5km)",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/18097534867",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53861,6 +53879,16 @@
           "distance": 6689.0,
           "elevation_gain": 0.0,
           "moving_time": 2249.0
+        },
+        "2026-04-13": {
+          "activity_ids": [
+            "18097267312",
+            "18097534867"
+          ],
+          "count": 2,
+          "distance": 6809.5,
+          "elevation_gain": 0.0,
+          "moving_time": 1975.0
         }
       },
       "VirtualRide": {
@@ -54141,7 +54169,7 @@
       }
     }
   },
-  "generated_at": "2026-04-13T16:09:35.137050+00:00",
+  "generated_at": "2026-04-14T16:04:54.242910+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",

@@ -40311,5 +40311,31 @@
     "start_date_local": "2026-04-12T08:58:50Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 1814.5,
+    "elevation_gain": 0.0,
+    "id": "18097267312",
+    "moving_time": 600.0,
+    "name": "Warmup",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-13T18:28:00Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 4995.0,
+    "elevation_gain": 0.0,
+    "id": "18097534867",
+    "moving_time": 1375.0,
+    "name": "Distance row (5km)",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-13T18:39:04Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
