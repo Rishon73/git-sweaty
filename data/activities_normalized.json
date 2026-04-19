@@ -40350,5 +40350,18 @@
     "start_date_local": "2026-04-14T17:22:52Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 95537.6,
+    "elevation_gain": 1506.0,
+    "id": "18161591841",
+    "moving_time": 14653.0,
+    "name": "Fl\u00e8che Buffoon 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T08:11:55Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

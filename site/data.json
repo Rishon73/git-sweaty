@@ -27935,6 +27935,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18112167406",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 8,
+      "name": "Fl\u00e8che Buffoon 2026",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18161591841",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53685,6 +53694,15 @@
           "distance": 50742.2,
           "elevation_gain": 680.0,
           "moving_time": 7485.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18161591841"
+          ],
+          "count": 1,
+          "distance": 95537.6,
+          "elevation_gain": 1506.0,
+          "moving_time": 14653.0
         }
       },
       "Rowing": {
@@ -54187,7 +54205,7 @@
       }
     }
   },
-  "generated_at": "2026-04-18T15:33:45.610771+00:00",
+  "generated_at": "2026-04-19T15:34:05.414751+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
