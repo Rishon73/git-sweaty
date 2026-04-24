@@ -40363,5 +40363,18 @@
     "start_date_local": "2026-04-18T08:11:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 39333.4,
+    "elevation_gain": 768.0,
+    "id": "18232533322",
+    "moving_time": 6868.0,
+    "name": "My slowest AHT",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-23T17:15:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
