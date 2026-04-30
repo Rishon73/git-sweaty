@@ -27971,6 +27971,42 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18267821658",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18314049588",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 18,
+      "name": "Warmup",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/18312559128",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 19,
+      "name": "Distance row 6000m",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/18312889943",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 19,
+      "name": "Cooldown",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/18312957576",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53748,6 +53784,15 @@
           "distance": 84429.5,
           "elevation_gain": 191.0,
           "moving_time": 11732.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18314049588"
+          ],
+          "count": 1,
+          "distance": 59749.2,
+          "elevation_gain": 744.0,
+          "moving_time": 8019.0
         }
       },
       "Rowing": {
@@ -53970,6 +54015,17 @@
           "distance": 6809.5,
           "elevation_gain": 0.0,
           "moving_time": 1975.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18312559128",
+            "18312889943",
+            "18312957576"
+          ],
+          "count": 3,
+          "distance": 8775.5,
+          "elevation_gain": 0.0,
+          "moving_time": 2581.0
         }
       },
       "VirtualRide": {
@@ -54259,7 +54315,7 @@
       }
     }
   },
-  "generated_at": "2026-04-29T16:25:53.190561+00:00",
+  "generated_at": "2026-04-30T16:16:01.781689+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
