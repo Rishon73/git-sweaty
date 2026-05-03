@@ -40454,5 +40454,18 @@
     "start_date_local": "2026-04-29T19:33:00Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 104882.0,
+    "elevation_gain": 1553.0,
+    "id": "18350690957",
+    "moving_time": 16023.0,
+    "name": "\u201cWhat motivates you to ride?\u201d",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-02T08:46:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

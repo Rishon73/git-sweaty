@@ -28007,6 +28007,15 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/18312957576",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 8,
+      "name": "\u201cWhat motivates you to ride?\u201d",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18350690957",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53793,6 +53802,15 @@
           "distance": 59749.2,
           "elevation_gain": 744.0,
           "moving_time": 8019.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18350690957"
+          ],
+          "count": 1,
+          "distance": 104882.0,
+          "elevation_gain": 1553.0,
+          "moving_time": 16023.0
         }
       },
       "Rowing": {
@@ -54315,7 +54333,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:41:51.799415+00:00",
+  "generated_at": "2026-05-03T15:42:11.644812+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
