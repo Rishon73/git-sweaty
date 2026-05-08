@@ -40506,5 +40506,57 @@
     "start_date_local": "2026-05-03T15:04:00Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 37582.5,
+    "elevation_gain": 571.0,
+    "id": "18417537104",
+    "moving_time": 5843.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-05T05:31:06Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 1990.0,
+    "elevation_gain": 0.0,
+    "id": "18419547255",
+    "moving_time": 600.0,
+    "name": "Warmup",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-07T20:31:00Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 5995.1,
+    "elevation_gain": 0.0,
+    "id": "18419785711",
+    "moving_time": 1663.0,
+    "name": "Distance row (6km)",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-07T20:45:16Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 846.3,
+    "elevation_gain": 0.0,
+    "id": "18419846253",
+    "moving_time": 300.0,
+    "name": "Cooldown",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-07T21:17:00Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
