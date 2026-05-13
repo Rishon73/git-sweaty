@@ -28083,7 +28083,7 @@
     {
       "date": "2026-05-11",
       "hour": 15,
-      "name": "Bologna loop",
+      "name": "Day 1 - Bologna loop",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18464899315",
@@ -28092,10 +28092,28 @@
     {
       "date": "2026-05-12",
       "hour": 9,
-      "name": "Day 2 p. 2 - to Parma",
+      "name": "Day 2 p. 1 - De NiGris (balsamic vinegar acetification)",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18476945484",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 15,
+      "name": "Day 2 p. 1 - to Parm2",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18479801354",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 8,
+      "name": "Day 3 - to Sirmione",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18492317358",
       "year": 2026
     }
   ],
@@ -53913,12 +53931,22 @@
         },
         "2026-05-12": {
           "activity_ids": [
-            "18476945484"
+            "18476945484",
+            "18479801354"
+          ],
+          "count": 2,
+          "distance": 149216.1,
+          "elevation_gain": 597.0,
+          "moving_time": 20704.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18492317358"
           ],
           "count": 1,
-          "distance": 87418.3,
-          "elevation_gain": 375.0,
-          "moving_time": 11893.0
+          "distance": 154562.0,
+          "elevation_gain": 494.0,
+          "moving_time": 19538.0
         }
       },
       "Rowing": {
@@ -54463,7 +54491,7 @@
       }
     }
   },
-  "generated_at": "2026-05-12T17:06:28.520398+00:00",
+  "generated_at": "2026-05-13T17:13:07.913233+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
