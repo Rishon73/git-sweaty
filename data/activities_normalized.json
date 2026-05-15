@@ -40610,5 +40610,31 @@
     "start_date_local": "2026-05-13T08:55:06Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 138816.0,
+    "elevation_gain": 1129.0,
+    "id": "18510023222",
+    "moving_time": 22574.0,
+    "name": "Day 4 - to (around) Vicenza",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-14T08:50:25Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 85435.5,
+    "elevation_gain": 301.0,
+    "id": "18515742909",
+    "moving_time": 12508.0,
+    "name": "Day 5 - \u2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-15T09:39:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
