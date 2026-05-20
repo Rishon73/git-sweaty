@@ -40636,5 +40636,18 @@
     "start_date_local": "2026-05-15T09:39:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 43836.7,
+    "elevation_gain": 688.0,
+    "id": "18580514553",
+    "moving_time": 7317.0,
+    "name": "Chestnut Hill look",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-20T05:29:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
