@@ -40643,11 +40643,50 @@
     "elevation_gain": 688.0,
     "id": "18580514553",
     "moving_time": 7317.0,
-    "name": "Chestnut Hill look",
+    "name": "Chestnut Hill loop",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-05-20T05:29:59Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 1846.2,
+    "elevation_gain": 0.0,
+    "id": "18588824659",
+    "moving_time": 600.0,
+    "name": "Warmup",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-20T19:30:00Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 5991.6,
+    "elevation_gain": 0.0,
+    "id": "18589106242",
+    "moving_time": 1721.0,
+    "name": "Distance row (6km)",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-20T19:43:17Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 860.0,
+    "elevation_gain": 0.0,
+    "id": "18589154771",
+    "moving_time": 300.0,
+    "name": "Cooldown",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-20T20:13:00Z",
+    "type": "Rowing",
     "year": 2026
   }
 ]
