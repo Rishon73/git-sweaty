@@ -40740,5 +40740,31 @@
     "start_date_local": "2026-05-26T17:30:04Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 27493.7,
+    "elevation_gain": 131.0,
+    "id": "18695905390",
+    "moving_time": 3208.0,
+    "name": "Zwift - Strength Surges",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-28T18:47:14Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 40236.2,
+    "elevation_gain": 464.0,
+    "id": "18704532093",
+    "moving_time": 5981.0,
+    "name": "Pastries Friday",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-29T05:28:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
