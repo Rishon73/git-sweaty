@@ -28259,6 +28259,15 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/18749036683",
       "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 17,
+      "name": "Alien Church",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18790703937",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54154,6 +54163,15 @@
           "distance": 66295.7,
           "elevation_gain": 815.0,
           "moving_time": 10436.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18790703937"
+          ],
+          "count": 1,
+          "distance": 35890.3,
+          "elevation_gain": 386.0,
+          "moving_time": 4874.0
         }
       },
       "Rowing": {
@@ -54755,7 +54773,7 @@
       }
     }
   },
-  "generated_at": "2026-06-04T17:41:57.451135+00:00",
+  "generated_at": "2026-06-05T17:12:16.565259+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
