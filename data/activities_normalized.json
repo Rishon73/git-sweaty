@@ -40857,5 +40857,44 @@
     "start_date_local": "2026-06-05T16:52:01Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 25959.1,
+    "elevation_gain": 453.6,
+    "id": "18813835937",
+    "moving_time": 4236.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-06T12:30:43Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 93458.0,
+    "elevation_gain": 1490.0,
+    "id": "18817778923",
+    "moving_time": 48975.0,
+    "name": "14% Garmin battery & 100% optimism!",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-06T07:59:37Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 56074.5,
+    "elevation_gain": 689.0,
+    "id": "18826591998",
+    "moving_time": 8718.0,
+    "name": "Pour Richard\u2019s",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-07T08:57:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
