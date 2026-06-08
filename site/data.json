@@ -28289,8 +28289,8 @@
     },
     {
       "date": "2026-06-06",
-      "hour": 12,
-      "name": "Lunch Ride",
+      "hour": 13,
+      "name": "Rest of the ride...",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18813835937",
@@ -54224,9 +54224,9 @@
             "18817778923"
           ],
           "count": 2,
-          "distance": 119417.1,
-          "elevation_gain": 1943.6,
-          "moving_time": 53211.0
+          "distance": 105497.2,
+          "elevation_gain": 1640.9,
+          "moving_time": 50791.0
         },
         "2026-06-07": {
           "activity_ids": [
@@ -54847,7 +54847,7 @@
       }
     }
   },
-  "generated_at": "2026-06-07T16:11:09.296439+00:00",
+  "generated_at": "2026-06-08T17:48:47.933568+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
