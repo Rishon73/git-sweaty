@@ -28313,6 +28313,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18826591998",
       "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 17,
+      "name": "First splits",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18857797894",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18864294523",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54236,6 +54254,15 @@
           "distance": 56074.5,
           "elevation_gain": 689.0,
           "moving_time": 8718.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "18857797894"
+          ],
+          "count": 1,
+          "distance": 47741.3,
+          "elevation_gain": 618.0,
+          "moving_time": 5737.0
         }
       },
       "Rowing": {
@@ -54522,6 +54549,17 @@
           "distance": 5330.1,
           "elevation_gain": 0.0,
           "moving_time": 1563.0
+        }
+      },
+      "Run": {
+        "2026-06-10": {
+          "activity_ids": [
+            "18864294523"
+          ],
+          "count": 1,
+          "distance": 5782.7,
+          "elevation_gain": 46.0,
+          "moving_time": 2057.0
         }
       },
       "VirtualRide": {
@@ -54847,7 +54885,7 @@
       }
     }
   },
-  "generated_at": "2026-06-09T17:22:56.599636+00:00",
+  "generated_at": "2026-06-10T17:55:22.718221+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
