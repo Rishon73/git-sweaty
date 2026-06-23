@@ -28403,6 +28403,24 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/19021410741",
       "year": 2026
+    },
+    {
+      "date": "2026-06-23",
+      "hour": 12,
+      "name": "Plose hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19034934368",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-23",
+      "hour": 17,
+      "name": "Lago Braies",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19037634949",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54081,6 +54099,16 @@
           "distance": 5441.3,
           "elevation_gain": 64.8,
           "moving_time": 4361.0
+        },
+        "2026-06-23": {
+          "activity_ids": [
+            "19034934368",
+            "19037634949"
+          ],
+          "count": 2,
+          "distance": 10255.7,
+          "elevation_gain": 225.89999999999998,
+          "moving_time": 7256.0
         }
       },
       "Ride": {
@@ -55031,7 +55059,7 @@
       }
     }
   },
-  "generated_at": "2026-06-22T18:43:19.480900+00:00",
+  "generated_at": "2026-06-23T17:13:34.354605+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",

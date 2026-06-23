@@ -41026,5 +41026,31 @@
     "start_date_local": "2026-06-22T11:53:11Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 5536.7,
+    "elevation_gain": 186.2,
+    "id": "19034934368",
+    "moving_time": 4369.0,
+    "name": "Plose hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-23T12:10:48Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 4719.0,
+    "elevation_gain": 39.7,
+    "id": "19037634949",
+    "moving_time": 2887.0,
+    "name": "Lago Braies",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-23T17:05:40Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
