@@ -41091,5 +41091,18 @@
     "start_date_local": "2026-07-04T06:28:05Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 42866.6,
+    "elevation_gain": 424.0,
+    "id": "19191784862",
+    "moving_time": 7483.0,
+    "name": "Tracy\u2019s gravel adventures",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-05T09:09:50Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
