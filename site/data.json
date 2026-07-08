@@ -28457,6 +28457,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/19191784862",
       "year": 2026
+    },
+    {
+      "date": "2026-07-07",
+      "hour": 12,
+      "name": "To vail pass and back",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19220255020",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54511,6 +54520,15 @@
           "distance": 81377.0,
           "elevation_gain": 1067.0,
           "moving_time": 11700.0
+        },
+        "2026-07-07": {
+          "activity_ids": [
+            "19220255020"
+          ],
+          "count": 1,
+          "distance": 31206.8,
+          "elevation_gain": 620.0,
+          "moving_time": 5842.0
         }
       },
       "Rowing": {
@@ -55133,7 +55151,7 @@
       }
     }
   },
-  "generated_at": "2026-07-07T17:08:51.347205+00:00",
+  "generated_at": "2026-07-08T16:27:16.406855+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",

@@ -41104,5 +41104,18 @@
     "start_date_local": "2026-07-05T09:09:50Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 31206.8,
+    "elevation_gain": 620.0,
+    "id": "19220255020",
+    "moving_time": 5842.0,
+    "name": "To vail pass and back",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-07T12:40:12Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
