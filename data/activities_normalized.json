@@ -41143,5 +41143,18 @@
     "start_date_local": "2026-07-09T11:51:46Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 30511.6,
+    "elevation_gain": 340.0,
+    "id": "19260485169",
+    "moving_time": 5668.0,
+    "name": "Nachos, coffee and Derek",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-10T12:01:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
