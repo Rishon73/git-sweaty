@@ -41156,5 +41156,18 @@
     "start_date_local": "2026-07-10T12:01:37Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 194019.0,
+    "elevation_gain": 3173.0,
+    "id": "19276270435",
+    "moving_time": 31574.0,
+    "name": "Triple Bypass 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-11T06:23:35Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
