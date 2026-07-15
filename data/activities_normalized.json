@@ -41169,5 +41169,18 @@
     "start_date_local": "2026-07-11T06:23:35Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 48580.9,
+    "elevation_gain": 598.0,
+    "id": "19316146276",
+    "moving_time": 6054.0,
+    "name": "Splits again",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-14T17:40:13Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
