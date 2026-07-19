@@ -28520,6 +28520,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19343573344",
       "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 7,
+      "name": "Badgers!",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19365735057",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54637,6 +54646,15 @@
           "distance": 67838.9,
           "elevation_gain": 761.0,
           "moving_time": 8856.0
+        },
+        "2026-07-18": {
+          "activity_ids": [
+            "19365735057"
+          ],
+          "count": 1,
+          "distance": 101595.0,
+          "elevation_gain": 952.0,
+          "moving_time": 14387.0
         }
       },
       "Rowing": {
@@ -55259,7 +55277,7 @@
       }
     }
   },
-  "generated_at": "2026-07-18T15:51:26.984109+00:00",
+  "generated_at": "2026-07-19T15:52:57.364026+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",

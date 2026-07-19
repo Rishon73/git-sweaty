@@ -41195,5 +41195,18 @@
     "start_date_local": "2026-07-16T17:28:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 101595.0,
+    "elevation_gain": 952.0,
+    "id": "19365735057",
+    "moving_time": 14387.0,
+    "name": "Badgers!",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-18T07:54:12Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
