@@ -28529,6 +28529,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19365735057",
       "year": 2026
+    },
+    {
+      "date": "2026-07-19",
+      "hour": 8,
+      "name": "Children of the Corn",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19379684452",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-19",
+      "hour": 14,
+      "name": "To the bar",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/19381258243",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54207,6 +54225,15 @@
           "distance": 42866.6,
           "elevation_gain": 424.0,
           "moving_time": 7483.0
+        },
+        "2026-07-19": {
+          "activity_ids": [
+            "19381258243"
+          ],
+          "count": 1,
+          "distance": 2720.1,
+          "elevation_gain": 26.8,
+          "moving_time": 586.0
         }
       },
       "Hike": {
@@ -54655,6 +54682,15 @@
           "distance": 101595.0,
           "elevation_gain": 952.0,
           "moving_time": 14387.0
+        },
+        "2026-07-19": {
+          "activity_ids": [
+            "19379684452"
+          ],
+          "count": 1,
+          "distance": 68365.4,
+          "elevation_gain": 969.0,
+          "moving_time": 10151.0
         }
       },
       "Rowing": {
@@ -55277,7 +55313,7 @@
       }
     }
   },
-  "generated_at": "2026-07-19T15:52:57.364026+00:00",
+  "generated_at": "2026-07-20T16:21:20.948530+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",

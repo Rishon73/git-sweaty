@@ -41208,5 +41208,31 @@
     "start_date_local": "2026-07-18T07:54:12Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 68365.4,
+    "elevation_gain": 969.0,
+    "id": "19379684452",
+    "moving_time": 10151.0,
+    "name": "Children of the Corn",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-19T08:59:13Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 2720.1,
+    "elevation_gain": 26.8,
+    "id": "19381258243",
+    "moving_time": 586.0,
+    "name": "To the bar",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-19T14:39:04Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
