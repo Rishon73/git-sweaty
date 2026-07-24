@@ -41247,5 +41247,18 @@
     "start_date_local": "2026-07-22T17:51:35Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 37099.0,
+    "elevation_gain": 722.0,
+    "id": "19438522346",
+    "moving_time": 5749.0,
+    "name": "PAHT (PM All Hills Thursday)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-23T17:08:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
