@@ -28583,6 +28583,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19452277642",
       "year": 2026
+    },
+    {
+      "date": "2026-07-25",
+      "hour": 7,
+      "name": "Nearly 100 miles\u2026",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19465513910",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 8,
+      "name": "Can we go on a gravel ride without anyone falling?",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19475254439",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54746,6 +54764,24 @@
           "distance": 37641.2,
           "elevation_gain": 731.0,
           "moving_time": 5828.0
+        },
+        "2026-07-25": {
+          "activity_ids": [
+            "19465513910"
+          ],
+          "count": 1,
+          "distance": 155515.0,
+          "elevation_gain": 2052.0,
+          "moving_time": 22206.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19475254439"
+          ],
+          "count": 1,
+          "distance": 47834.0,
+          "elevation_gain": 456.0,
+          "moving_time": 9125.0
         }
       },
       "Rowing": {
@@ -55377,7 +55413,7 @@
       }
     }
   },
-  "generated_at": "2026-07-25T16:00:10.258529+00:00",
+  "generated_at": "2026-07-27T16:54:20.177018+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",

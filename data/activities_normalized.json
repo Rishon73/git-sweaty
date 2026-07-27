@@ -41286,5 +41286,31 @@
     "start_date_local": "2026-07-24T19:51:19Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 155515.0,
+    "elevation_gain": 2052.0,
+    "id": "19465513910",
+    "moving_time": 22206.0,
+    "name": "Nearly 100 miles\u2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-25T07:00:09Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 47834.0,
+    "elevation_gain": 456.0,
+    "id": "19475254439",
+    "moving_time": 9125.0,
+    "name": "Can we go on a gravel ride without anyone falling?",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-26T08:27:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
