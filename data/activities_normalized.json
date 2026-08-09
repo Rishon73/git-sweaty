@@ -41429,5 +41429,18 @@
     "start_date_local": "2026-08-07T05:37:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 107862.0,
+    "elevation_gain": 1164.0,
+    "id": "19657434793",
+    "moving_time": 13894.0,
+    "name": "One of those 'glad it\u2019s over' kind of rides",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-08T07:57:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
