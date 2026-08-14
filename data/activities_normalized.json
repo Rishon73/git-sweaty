@@ -41481,5 +41481,18 @@
     "start_date_local": "2026-08-12T17:24:58Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 62555.0,
+    "elevation_gain": 736.0,
+    "id": "19732289862",
+    "moving_time": 8776.0,
+    "name": "Thursday\u2019s routine",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-13T17:28:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
