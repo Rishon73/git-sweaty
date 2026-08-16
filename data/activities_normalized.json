@@ -41494,5 +41494,18 @@
     "start_date_local": "2026-08-13T17:28:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 118183.0,
+    "elevation_gain": 1530.1,
+    "id": "19756026623",
+    "moving_time": 16139.0,
+    "name": "Annual pilgrimage to St. Peters Bakery",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T07:26:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
