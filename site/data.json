@@ -28736,6 +28736,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19756026623",
       "year": 2026
+    },
+    {
+      "date": "2026-08-16",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19800036799",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-18",
+      "hour": 17,
+      "name": "Splits",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19803069652",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -55044,6 +55062,24 @@
           "distance": 118183.0,
           "elevation_gain": 1530.1,
           "moving_time": 16139.0
+        },
+        "2026-08-16": {
+          "activity_ids": [
+            "19800036799"
+          ],
+          "count": 1,
+          "distance": 65077.6,
+          "elevation_gain": 800.0,
+          "moving_time": 10112.0
+        },
+        "2026-08-18": {
+          "activity_ids": [
+            "19803069652"
+          ],
+          "count": 1,
+          "distance": 60894.1,
+          "elevation_gain": 709.0,
+          "moving_time": 7601.0
         }
       },
       "Rowing": {
@@ -55675,7 +55711,7 @@
       }
     }
   },
-  "generated_at": "2026-08-18T15:25:43.197758+00:00",
+  "generated_at": "2026-08-19T15:25:10.642393+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
