@@ -28763,6 +28763,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/19840985333",
       "year": 2026
+    },
+    {
+      "date": "2026-08-22",
+      "hour": 9,
+      "name": "D2R2 100k",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/19855538106",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54459,6 +54468,15 @@
           "distance": 48859.3,
           "elevation_gain": 631.0,
           "moving_time": 8033.0
+        },
+        "2026-08-22": {
+          "activity_ids": [
+            "19855538106"
+          ],
+          "count": 1,
+          "distance": 103377.0,
+          "elevation_gain": 2088.6,
+          "moving_time": 18089.0
         }
       },
       "Hike": {
@@ -55729,7 +55747,7 @@
       }
     }
   },
-  "generated_at": "2026-08-22T15:14:55.691218+00:00",
+  "generated_at": "2026-08-23T15:16:24.355632+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
