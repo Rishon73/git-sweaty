@@ -41559,5 +41559,18 @@
     "start_date_local": "2026-08-22T09:17:15Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 49465.5,
+    "elevation_gain": 581.0,
+    "id": "19900761426",
+    "moving_time": 6295.0,
+    "name": "Splits",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-25T17:35:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
