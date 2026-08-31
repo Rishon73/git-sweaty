@@ -28781,6 +28781,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19900761426",
       "year": 2026
+    },
+    {
+      "date": "2026-08-29",
+      "hour": 8,
+      "name": "C3 Scratch & Denton",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/19969441732",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-30",
+      "hour": 11,
+      "name": "The circus is back in town",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/19967967529",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54486,6 +54504,24 @@
           "distance": 103377.0,
           "elevation_gain": 2088.6,
           "moving_time": 18089.0
+        },
+        "2026-08-29": {
+          "activity_ids": [
+            "19969441732"
+          ],
+          "count": 1,
+          "distance": 86131.4,
+          "elevation_gain": 155.0,
+          "moving_time": 12774.0
+        },
+        "2026-08-30": {
+          "activity_ids": [
+            "19967967529"
+          ],
+          "count": 1,
+          "distance": 30948.9,
+          "elevation_gain": 289.8,
+          "moving_time": 6116.0
         }
       },
       "Hike": {
@@ -55765,7 +55801,7 @@
       }
     }
   },
-  "generated_at": "2026-08-30T18:22:29.893513+00:00",
+  "generated_at": "2026-08-31T20:35:37.983358+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",

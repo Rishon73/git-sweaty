@@ -41572,5 +41572,31 @@
     "start_date_local": "2026-08-25T17:35:21Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 86131.4,
+    "elevation_gain": 155.0,
+    "id": "19969441732",
+    "moving_time": 12774.0,
+    "name": "C3 Scratch & Denton",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-29T08:49:53Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 30948.9,
+    "elevation_gain": 289.8,
+    "id": "19967967529",
+    "moving_time": 6116.0,
+    "name": "The circus is back in town",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-30T11:02:48Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
