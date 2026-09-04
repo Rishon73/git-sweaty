@@ -41624,5 +41624,18 @@
     "start_date_local": "2026-09-02T05:49:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 52156.3,
+    "elevation_gain": 630.0,
+    "id": "20026931515",
+    "moving_time": 7621.0,
+    "name": "Time for a new brake pads?!",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-03T17:15:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
