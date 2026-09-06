@@ -41637,5 +41637,31 @@
     "start_date_local": "2026-09-03T17:15:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 120595.0,
+    "elevation_gain": 1608.0,
+    "id": "20051071745",
+    "moving_time": 17778.0,
+    "name": "A great start for a long weekend",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-05T07:58:55Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 46364.2,
+    "elevation_gain": 547.0,
+    "id": "20064118396",
+    "moving_time": 6938.0,
+    "name": "Tasty sampling at the Village Cafe",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-06T08:58:39Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
