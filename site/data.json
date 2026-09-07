@@ -28844,6 +28844,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20064118396",
       "year": 2026
+    },
+    {
+      "date": "2026-09-07",
+      "hour": 9,
+      "name": "Just gravel",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20076747433",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -55260,6 +55269,15 @@
           "distance": 46364.2,
           "elevation_gain": 547.0,
           "moving_time": 6938.0
+        },
+        "2026-09-07": {
+          "activity_ids": [
+            "20076747433"
+          ],
+          "count": 1,
+          "distance": 64438.3,
+          "elevation_gain": 411.0,
+          "moving_time": 9972.0
         }
       },
       "Rowing": {
@@ -55891,7 +55909,7 @@
       }
     }
   },
-  "generated_at": "2026-09-06T17:27:36.039768+00:00",
+  "generated_at": "2026-09-07T18:57:48.893975+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",

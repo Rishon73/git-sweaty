@@ -41663,5 +41663,18 @@
     "start_date_local": "2026-09-06T08:58:39Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 64438.3,
+    "elevation_gain": 411.0,
+    "id": "20076747433",
+    "moving_time": 9972.0,
+    "name": "Just gravel",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-07T09:56:07Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
