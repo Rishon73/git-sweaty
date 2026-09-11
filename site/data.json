@@ -28853,6 +28853,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20076747433",
       "year": 2026
+    },
+    {
+      "date": "2026-09-10",
+      "hour": 17,
+      "name": "Didn\u2019t bring it today. It\u2019s probably the jersey!!!",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20123484657",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -55278,6 +55287,15 @@
           "distance": 64438.3,
           "elevation_gain": 411.0,
           "moving_time": 9972.0
+        },
+        "2026-09-10": {
+          "activity_ids": [
+            "20123484657"
+          ],
+          "count": 1,
+          "distance": 38519.7,
+          "elevation_gain": 716.0,
+          "moving_time": 6380.0
         }
       },
       "Rowing": {
@@ -55909,7 +55927,7 @@
       }
     }
   },
-  "generated_at": "2026-09-10T17:59:56.329886+00:00",
+  "generated_at": "2026-09-11T18:06:47.387485+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",

@@ -41676,5 +41676,18 @@
     "start_date_local": "2026-09-07T09:56:07Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 38519.7,
+    "elevation_gain": 716.0,
+    "id": "20123484657",
+    "moving_time": 6380.0,
+    "name": "Didn\u2019t bring it today. It\u2019s probably the jersey!!!",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-10T17:15:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
