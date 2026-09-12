@@ -41689,5 +41689,18 @@
     "start_date_local": "2026-09-10T17:15:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 99455.0,
+    "elevation_gain": 1212.0,
+    "id": "20147178270",
+    "moving_time": 13175.0,
+    "name": "Triple-loop. Felt like more",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-12T07:53:50Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
