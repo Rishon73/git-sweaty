@@ -28871,6 +28871,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20147178270",
       "year": 2026
+    },
+    {
+      "date": "2026-09-14",
+      "hour": 19,
+      "name": "Zwift - Over, Under and Beyond",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20178484483",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -55874,6 +55883,15 @@
           "distance": 27493.7,
           "elevation_gain": 131.0,
           "moving_time": 3208.0
+        },
+        "2026-09-14": {
+          "activity_ids": [
+            "20178484483"
+          ],
+          "count": 1,
+          "distance": 23462.7,
+          "elevation_gain": 226.0,
+          "moving_time": 2869.0
         }
       },
       "Walk": {
@@ -55945,7 +55963,7 @@
       }
     }
   },
-  "generated_at": "2026-09-14T19:42:46.809914+00:00",
+  "generated_at": "2026-09-15T18:40:12.709966+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
