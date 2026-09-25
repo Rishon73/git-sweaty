@@ -28934,6 +28934,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20257319298",
       "year": 2026
+    },
+    {
+      "date": "2026-09-25",
+      "hour": 8,
+      "name": "Zwift - Anaerobic Hammer Session",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20323939448",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -55992,6 +56001,15 @@
           "distance": 24416.2,
           "elevation_gain": 48.0,
           "moving_time": 2618.0
+        },
+        "2026-09-25": {
+          "activity_ids": [
+            "20323939448"
+          ],
+          "count": 1,
+          "distance": 17710.7,
+          "elevation_gain": 133.0,
+          "moving_time": 2413.0
         }
       },
       "Walk": {
@@ -56063,7 +56081,7 @@
       }
     }
   },
-  "generated_at": "2026-09-24T18:47:32.154984+00:00",
+  "generated_at": "2026-09-25T19:05:36.911171+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
