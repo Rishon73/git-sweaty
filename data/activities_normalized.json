@@ -41819,5 +41819,18 @@
     "start_date_local": "2026-09-26T12:48:16Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 26836.7,
+    "elevation_gain": 196.0,
+    "id": "20356945347",
+    "moving_time": 3406.0,
+    "name": "Zwift - Two Timer",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-27T15:15:27Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
