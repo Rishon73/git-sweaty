@@ -41832,5 +41832,18 @@
     "start_date_local": "2026-09-27T15:15:27Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 46432.7,
+    "elevation_gain": 618.0,
+    "id": "20385968063",
+    "moving_time": 6343.0,
+    "name": "Trellis tonight",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-29T17:29:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
