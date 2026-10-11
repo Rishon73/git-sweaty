@@ -41858,5 +41858,31 @@
     "start_date_local": "2026-10-03T17:53:46Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 24967.2,
+    "elevation_gain": 187.0,
+    "id": "20543230144",
+    "moving_time": 2896.0,
+    "name": "Zwift - #2 Surge and Settle",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-11T09:50:58Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 34065.7,
+    "elevation_gain": 188.0,
+    "id": "20544218656",
+    "moving_time": 3820.0,
+    "name": "Zwift - Zone 2 chill",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-11T10:45:21Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
