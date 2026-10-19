@@ -29015,6 +29015,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20624332414",
       "year": 2026
+    },
+    {
+      "date": "2026-10-18",
+      "hour": 8,
+      "name": "Brandywine Valley Roubaix \ud83c\udf41",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/20639006619",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54738,6 +54747,15 @@
           "distance": 30948.9,
           "elevation_gain": 289.8,
           "moving_time": 6116.0
+        },
+        "2026-10-18": {
+          "activity_ids": [
+            "20639006619"
+          ],
+          "count": 1,
+          "distance": 91419.3,
+          "elevation_gain": 1440.0,
+          "moving_time": 15070.0
         }
       },
       "Hike": {
@@ -56217,7 +56235,7 @@
       }
     }
   },
-  "generated_at": "2026-10-18T17:43:58.350154+00:00",
+  "generated_at": "2026-10-19T20:19:50.704204+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",

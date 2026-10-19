@@ -41910,5 +41910,18 @@
     "start_date_local": "2026-10-17T11:01:39Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 91419.3,
+    "elevation_gain": 1440.0,
+    "id": "20639006619",
+    "moving_time": 15070.0,
+    "name": "Brandywine Valley Roubaix \ud83c\udf41",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-10-18T08:58:27Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
