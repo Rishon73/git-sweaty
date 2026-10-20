@@ -29024,6 +29024,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/20639006619",
       "year": 2026
+    },
+    {
+      "date": "2026-10-19",
+      "hour": 18,
+      "name": "9x5:00/1:00r row (8k)",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/20654002242",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -55817,6 +55826,15 @@
           "distance": 5124.0,
           "elevation_gain": 0.0,
           "moving_time": 1677.0
+        },
+        "2026-10-19": {
+          "activity_ids": [
+            "20654002242"
+          ],
+          "count": 1,
+          "distance": 8076.5,
+          "elevation_gain": 0.0,
+          "moving_time": 3239.0
         }
       },
       "Run": {
@@ -56235,7 +56253,7 @@
       }
     }
   },
-  "generated_at": "2026-10-19T20:19:50.704204+00:00",
+  "generated_at": "2026-10-20T18:52:25.199812+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
