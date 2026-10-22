@@ -41949,5 +41949,18 @@
     "start_date_local": "2026-10-20T17:34:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 8206.9,
+    "elevation_gain": 0.0,
+    "id": "20681732428",
+    "moving_time": 2815.0,
+    "name": "8x5:00/1:00r row (8.2km)",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-10-21T18:59:01Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
