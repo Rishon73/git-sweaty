@@ -41975,5 +41975,18 @@
     "start_date_local": "2026-10-22T18:25:32Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 87203.6,
+    "elevation_gain": 1164.0,
+    "id": "20716376478",
+    "moving_time": 13054.0,
+    "name": "plenty of photo ops today",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-24T09:08:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
