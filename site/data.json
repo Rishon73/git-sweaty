@@ -29069,6 +29069,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20716376478",
       "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 10,
+      "name": "Frolicking through the leaves",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20732996682",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -55584,6 +55593,15 @@
           "distance": 87203.6,
           "elevation_gain": 1164.0,
           "moving_time": 13054.0
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            "20732996682"
+          ],
+          "count": 1,
+          "distance": 55081.4,
+          "elevation_gain": 809.0,
+          "moving_time": 8825.0
         }
       },
       "Rowing": {
@@ -56325,7 +56343,7 @@
       }
     }
   },
-  "generated_at": "2026-10-25T18:02:25.384521+00:00",
+  "generated_at": "2026-10-26T20:16:24.225310+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",

@@ -41988,5 +41988,18 @@
     "start_date_local": "2026-10-24T09:08:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 55081.4,
+    "elevation_gain": 809.0,
+    "id": "20732996682",
+    "moving_time": 8825.0,
+    "name": "Frolicking through the leaves",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-25T10:13:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
