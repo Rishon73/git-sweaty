@@ -29078,6 +29078,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20732996682",
       "year": 2026
+    },
+    {
+      "date": "2026-10-27",
+      "hour": 17,
+      "name": "Last splits",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20758173036",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -55602,6 +55611,15 @@
           "distance": 55081.4,
           "elevation_gain": 809.0,
           "moving_time": 8825.0
+        },
+        "2026-10-27": {
+          "activity_ids": [
+            "20758173036"
+          ],
+          "count": 1,
+          "distance": 42481.3,
+          "elevation_gain": 517.0,
+          "moving_time": 5564.0
         }
       },
       "Rowing": {
@@ -56343,7 +56361,7 @@
       }
     }
   },
-  "generated_at": "2026-10-27T19:46:48.670346+00:00",
+  "generated_at": "2026-10-28T20:01:57.890101+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
