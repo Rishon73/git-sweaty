@@ -29087,6 +29087,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20758173036",
       "year": 2026
+    },
+    {
+      "date": "2026-10-30",
+      "hour": 17,
+      "name": "10x5:00/1:00r row (10km)",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/20796634087",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-31",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20807982140",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -55620,6 +55638,15 @@
           "distance": 42481.3,
           "elevation_gain": 517.0,
           "moving_time": 5564.0
+        },
+        "2026-10-31": {
+          "activity_ids": [
+            "20807982140"
+          ],
+          "count": 1,
+          "distance": 76160.7,
+          "elevation_gain": 1223.0,
+          "moving_time": 12779.0
         }
       },
       "Rowing": {
@@ -55934,6 +55961,15 @@
           "distance": 8206.9,
           "elevation_gain": 0.0,
           "moving_time": 2815.0
+        },
+        "2026-10-30": {
+          "activity_ids": [
+            "20796634087"
+          ],
+          "count": 1,
+          "distance": 10169.2,
+          "elevation_gain": 0.0,
+          "moving_time": 3540.0
         }
       },
       "Run": {
@@ -56361,7 +56397,7 @@
       }
     }
   },
-  "generated_at": "2026-10-30T19:48:54.715842+00:00",
+  "generated_at": "2026-10-31T19:00:21.196805+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
