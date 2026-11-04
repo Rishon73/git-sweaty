@@ -42040,5 +42040,31 @@
     "start_date_local": "2026-10-31T08:55:58Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 67764.0,
+    "elevation_gain": 919.0,
+    "id": "20848733718",
+    "moving_time": 9950.0,
+    "name": "Sunday Morning Mustache Ride ends at the Village Cafe",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-01T08:57:53Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 33610.3,
+    "elevation_gain": 504.0,
+    "id": "20850090963",
+    "moving_time": 4595.0,
+    "name": "Party pace my a$$",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-03T17:29:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
