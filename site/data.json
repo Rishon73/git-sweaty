@@ -29150,6 +29150,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20898985148",
       "year": 2026
+    },
+    {
+      "date": "2026-11-09",
+      "hour": 18,
+      "name": "10x1000m/1:00r row (10km)",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/20927387507",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -56052,6 +56061,15 @@
           "distance": 8002.9,
           "elevation_gain": 0.0,
           "moving_time": 2726.0
+        },
+        "2026-11-09": {
+          "activity_ids": [
+            "20927387507"
+          ],
+          "count": 1,
+          "distance": 9953.7,
+          "elevation_gain": 0.0,
+          "moving_time": 3390.0
         }
       },
       "Run": {
@@ -56479,7 +56497,7 @@
       }
     }
   },
-  "generated_at": "2026-11-09T23:40:30.400910+00:00",
+  "generated_at": "2026-11-10T21:09:48.618371+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
