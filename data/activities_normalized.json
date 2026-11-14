@@ -42144,5 +42144,18 @@
     "start_date_local": "2026-11-11T18:55:15Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 50689.2,
+    "elevation_gain": 841.0,
+    "id": "20976804955",
+    "moving_time": 9390.0,
+    "name": "Cloudy & cumbersome",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-11-13T14:05:44Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
