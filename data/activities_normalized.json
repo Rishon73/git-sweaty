@@ -42157,5 +42157,18 @@
     "start_date_local": "2026-11-13T14:05:44Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 39682.1,
+    "elevation_gain": 803.0,
+    "id": "21001568429",
+    "moving_time": 7964.0,
+    "name": "Tussey mountain challenge",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-15T11:00:44Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
