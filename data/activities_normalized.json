@@ -42166,9 +42166,9 @@
     "moving_time": 7964.0,
     "name": "Tussey mountain challenge",
     "raw_activity_type": "Ride",
-    "raw_type": "Ride",
+    "raw_type": "GravelRide",
     "start_date_local": "2026-11-15T11:00:44Z",
-    "type": "Ride",
+    "type": "GravelRide",
     "year": 2026
   }
 ]

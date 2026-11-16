@@ -29191,8 +29191,8 @@
       "date": "2026-11-15",
       "hour": 11,
       "name": "Tussey mountain challenge",
-      "subtype": "Ride",
-      "type": "Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
       "url": "https://www.strava.com/activities/21001568429",
       "year": 2026
     }
@@ -54945,6 +54945,15 @@
           "distance": 50689.2,
           "elevation_gain": 841.0,
           "moving_time": 9390.0
+        },
+        "2026-11-15": {
+          "activity_ids": [
+            "21001568429"
+          ],
+          "count": 1,
+          "distance": 39682.1,
+          "elevation_gain": 803.0,
+          "moving_time": 7964.0
         }
       },
       "Hike": {
@@ -55782,15 +55791,6 @@
           "distance": 38754.3,
           "elevation_gain": 565.0,
           "moving_time": 5399.0
-        },
-        "2026-11-15": {
-          "activity_ids": [
-            "21001568429"
-          ],
-          "count": 1,
-          "distance": 39682.1,
-          "elevation_gain": 803.0,
-          "moving_time": 7964.0
         }
       },
       "Rowing": {
@@ -56569,7 +56569,7 @@
       }
     }
   },
-  "generated_at": "2026-11-15T20:05:47.888319+00:00",
+  "generated_at": "2026-11-16T23:37:11.671194+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
