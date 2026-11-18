@@ -42170,5 +42170,18 @@
     "start_date_local": "2026-11-15T11:00:44Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 38315.8,
+    "elevation_gain": 679.0,
+    "id": "21028551087",
+    "moving_time": 5734.0,
+    "name": "Winter fountain",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-17T17:32:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
