@@ -42196,5 +42196,18 @@
     "start_date_local": "2026-11-18T18:40:35Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 26685.1,
+    "elevation_gain": 196.0,
+    "id": "21053405967",
+    "moving_time": 3298.0,
+    "name": "Zwift - 2004",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-19T18:43:46Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
