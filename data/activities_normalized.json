@@ -42216,10 +42216,23 @@
     "elevation_gain": 1118.0,
     "id": "21074902385",
     "moving_time": 12826.0,
+    "name": "Mid-ride route change. Still badgers!!!",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-11-21T09:25:11Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-22",
+    "distance": 58207.0,
+    "elevation_gain": 831.0,
+    "id": "21086941612",
+    "moving_time": 9414.0,
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
-    "start_date_local": "2026-11-21T09:25:11Z",
+    "start_date_local": "2026-11-22T09:02:58Z",
     "type": "Ride",
     "year": 2026
   }
