@@ -29240,6 +29240,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/21086941612",
       "year": 2026
+    },
+    {
+      "date": "2026-11-23",
+      "hour": 18,
+      "name": "9:40 row (2km)",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/21101000419",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-23",
+      "hour": 18,
+      "name": "4x2000m/2:00r row (8km)",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/21101416790",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -56223,6 +56241,16 @@
           "distance": 7984.2,
           "elevation_gain": 0.0,
           "moving_time": 2662.0
+        },
+        "2026-11-23": {
+          "activity_ids": [
+            "21101000419",
+            "21101416790"
+          ],
+          "count": 2,
+          "distance": 9988.6,
+          "elevation_gain": 0.0,
+          "moving_time": 3219.0
         }
       },
       "Run": {
@@ -56659,7 +56687,7 @@
       }
     }
   },
-  "generated_at": "2026-11-22T20:54:33.296849+00:00",
+  "generated_at": "2026-11-24T01:58:55.129170+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
