@@ -29267,6 +29267,42 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/21114262839",
       "year": 2026
+    },
+    {
+      "date": "2026-11-26",
+      "hour": 11,
+      "name": "3x3000m/2:00r row (9km)",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/21133944367",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-26",
+      "hour": 11,
+      "name": "Cooldown (1k)",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/21134050512",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-26",
+      "hour": 12,
+      "name": "Faults trainer \ud83d\ude14",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21134715388",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-26",
+      "hour": 13,
+      "name": "Z2 40 min",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21135566247",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -55899,6 +55935,15 @@
           "distance": 39484.7,
           "elevation_gain": 549.0,
           "moving_time": 5457.0
+        },
+        "2026-11-26": {
+          "activity_ids": [
+            "21135566247"
+          ],
+          "count": 1,
+          "distance": 1116.9,
+          "elevation_gain": 0.0,
+          "moving_time": 2401.0
         }
       },
       "Rowing": {
@@ -56269,6 +56314,16 @@
           "distance": 9988.6,
           "elevation_gain": 0.0,
           "moving_time": 3219.0
+        },
+        "2026-11-26": {
+          "activity_ids": [
+            "21133944367",
+            "21134050512"
+          ],
+          "count": 2,
+          "distance": 9993.7,
+          "elevation_gain": 0.0,
+          "moving_time": 3233.0
         }
       },
       "Run": {
@@ -56625,6 +56680,15 @@
           "distance": 26685.1,
           "elevation_gain": 196.0,
           "moving_time": 3298.0
+        },
+        "2026-11-26": {
+          "activity_ids": [
+            "21134715388"
+          ],
+          "count": 1,
+          "distance": 6414.8,
+          "elevation_gain": 4.0,
+          "moving_time": 712.0
         }
       },
       "Walk": {
@@ -56705,7 +56769,7 @@
       }
     }
   },
-  "generated_at": "2026-11-25T23:27:17.074455+00:00",
+  "generated_at": "2026-11-26T23:26:26.063523+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
