@@ -29289,7 +29289,7 @@
     {
       "date": "2026-11-26",
       "hour": 12,
-      "name": "Faults trainer \ud83d\ude14",
+      "name": "Faulty trainer \ud83d\ude14",
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/21134715388",
@@ -56769,7 +56769,7 @@
       }
     }
   },
-  "generated_at": "2026-11-26T23:26:26.063523+00:00",
+  "generated_at": "2026-11-27T23:09:25.420714+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/48033",
   "repo": "Rishon73/git-sweaty",
